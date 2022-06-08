@@ -18,7 +18,7 @@ public class EmployeeManagement {
 		
 		EmployeeManagement e1 = new EmployeeManagement();
 		
-		e1.addRecord();
+		EmployeeManagement.addRecord();
 		e1.deleteRecord();
 	}
 
